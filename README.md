@@ -1,2 +1,5 @@
 # Cal-C
-calcuator
+calculator
+
+
+This is a python GUI-based calculator
